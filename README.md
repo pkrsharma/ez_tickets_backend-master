@@ -30,7 +30,7 @@ The release branch contains workflow to deploy to my own Heroku Service and won'
 
 ``` sh
 # Clone this repo to your local machine using
-git clone https://github.com/psharma232/ez_tickets_backend
+git clone https://github.com/pkrsharma/ez_tickets_backend-master.git
 
 # Get into the directory
 cd ez_tickets_backend
